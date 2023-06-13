@@ -1,0 +1,7 @@
+{
+  "name": "di-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
